@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+lpi_env
 
 # Spyder project settings
 .spyderproject
@@ -161,3 +162,4 @@ cython_debug/
 
 # Security
 *.pem
+.DS_Store
